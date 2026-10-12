@@ -6,6 +6,8 @@
 
 **[下载最新版 APK](https://github.com/qinxian-wu/xianji-releases/releases/latest/download/xianji.apk)** · [最新版说明](https://github.com/qinxian-wu/xianji-releases/releases/latest) · [全部版本与更新记录](https://github.com/qinxian-wu/xianji-releases/releases) · [反馈问题](https://github.com/qinxian-wu/xianji-releases/issues)
 
+**使用提示：允许个人使用与测试；未经琴弦书面授权，禁止售卖、收费分发、改包贴牌及其他未获授权的商业利用。** 用于管理自己的工作、家教和账目不受影响；第三方素材与组件遵循各自许可。详见[使用与分发说明](LICENSE.md)。
+
 ## 能做什么
 
 - **任务与日程**：记录、分类、完成和修改任务，同时查看本周与下周；可开启通知卡和到期提醒。
@@ -40,4 +42,4 @@
 
 历史版本的功能变化见 [更新日志](CHANGELOG.md)。首次公开下载从 0.6.1 开始；更早版本提供迭代说明，旧调试安装包不在此仓库分发。后续公开版本会在 Releases 保留各自的说明与安装包。
 
-[数据与隐私说明](PRIVACY.md) · [第三方素材与软件许可](THIRD_PARTY_NOTICES.md)
+[使用与分发说明](LICENSE.md) · [数据与隐私说明](PRIVACY.md) · [第三方素材与软件许可](THIRD_PARTY_NOTICES.md)
