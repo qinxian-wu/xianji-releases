@@ -2,7 +2,7 @@
 
 把任务、日程、记账、辅导、健身与专注放在一起，用对话减少重复操作。
 
-开发者：**琴弦** · Android · 当前公开试用版 **0.6.1**
+开发者：**琴弦** · Android · 当前公开试用版 **0.7.0**
 
 **[下载最新版 APK](https://github.com/qinxian-wu/xianji-releases/releases/latest/download/xianji.apk)** · [最新版说明](https://github.com/qinxian-wu/xianji-releases/releases/latest) · [全部版本与更新记录](https://github.com/qinxian-wu/xianji-releases/releases) · [反馈问题](https://github.com/qinxian-wu/xianji-releases/issues)
 
@@ -28,7 +28,7 @@
 
 最低 Android 7.0；建议更新 Android System WebView（90+）。目前主要在 Android12 测试环境验证，其他品牌/系统的省电、通知和到时亮屏可能存在差异。手机联动卡会打开相应应用，由你核对并保存。
 
-0.6.1 与 0.6.0 功能一致，主要调整为关闭开发调试入口的公开发布构建；**问题记录与导出保留**。这仍是欢迎大家试用反馈的版本。
+0.7.0 完善沉浸全屏与计时常亮，加入今天“此刻”卡片，整理健身分组、辅导列表和助手回执；修复回复完成后立即重启时可能缺失历史回复的问题。**问题记录与导出保留**。这仍是欢迎大家试用反馈的版本。
 
 ## 反馈
 
